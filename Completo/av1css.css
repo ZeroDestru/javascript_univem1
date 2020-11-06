@@ -1,0 +1,22 @@
+.NP{
+    background: blue;
+    font-size: 25px;
+    color: black;
+}
+.but{
+    background-size: 50px;
+    background: red;
+    font-size: 15px;
+    color: black;
+    border-radius: 10px;
+    height: 20px;
+    width: 80px;
+    border:nonne
+}
+.tec{
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    border: blue;
+    background-color: aqua;
+}
